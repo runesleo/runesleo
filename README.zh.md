@@ -28,7 +28,7 @@
 
 ### Claude Code skills
 
-[humanizer](https://github.com/runesleo/humanizer-skill) · [systematic-debugging](https://github.com/runesleo/systematic-debugging-skill) · [content-pipeline](https://github.com/runesleo/content-pipeline-skill) · [awesome-claude-skills](https://github.com/runesleo/awesome-claude-skills)
+[humanizer](https://github.com/runesleo/humanizer-skill) · [systematic-debugging](https://github.com/runesleo/systematic-debugging-skill) · [content-pipeline](https://github.com/runesleo/content-pipeline-skill)
 
 ### 兴趣
 
