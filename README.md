@@ -26,10 +26,6 @@
 
 [x-reader](https://github.com/runesleo/x-reader) · [claude-code-workflow](https://github.com/runesleo/claude-code-workflow) · [ai-health-vault](https://github.com/runesleo/ai-health-vault) · [polymarket-toolkit](https://github.com/runesleo/polymarket-toolkit) · [claude-video-kit](https://github.com/runesleo/claude-video-kit) · [tg-reader-mcp](https://github.com/runesleo/tg-reader-mcp)
 
-### Claude Code skills
-
-[humanizer](https://github.com/runesleo/humanizer-skill) · [systematic-debugging](https://github.com/runesleo/systematic-debugging-skill) · [content-pipeline](https://github.com/runesleo/content-pipeline-skill)
-
 ### Interests
 
 Prediction market microstructure · agentic trading systems · Claude Code memory & skill design · AI × crypto writing.
