@@ -26,10 +26,6 @@
 
 [x-reader](https://github.com/runesleo/x-reader) · [claude-code-workflow](https://github.com/runesleo/claude-code-workflow) · [ai-health-vault](https://github.com/runesleo/ai-health-vault) · [polymarket-toolkit](https://github.com/runesleo/polymarket-toolkit) · [claude-video-kit](https://github.com/runesleo/claude-video-kit) · [tg-reader-mcp](https://github.com/runesleo/tg-reader-mcp)
 
-### Claude Code skills
-
-[humanizer](https://github.com/runesleo/humanizer-skill) · [systematic-debugging](https://github.com/runesleo/systematic-debugging-skill) · [content-pipeline](https://github.com/runesleo/content-pipeline-skill)
-
 ### 兴趣
 
 预测市场微观结构 · agentic 交易系统 · Claude Code 记忆与 skill 设计 · AI × Crypto 写作。
