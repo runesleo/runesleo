@@ -1,4 +1,4 @@
-<p align="right"><sub><a href="./README.zh.md">🇨🇳 中文</a> · <b>🇬🇧 English</b></sub></p>
+<p align="right"><sub><a href="./README.zh-CN.md">🇨🇳 中文</a> · <b>🇬🇧 English</b></sub></p>
 
 <h1 align="center">Hi, I'm Leo 👋</h1>
 
