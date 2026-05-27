@@ -17,18 +17,25 @@
 
 ### About
 
-- 🎯 AI × Crypto indie builder — prediction markets, AI tools, crypto on-chain. One person + AI.
-- 🏆 Silver Tier Winner @ #AgentTalentShow (Solana main track) with [polymarket-toolkit](https://github.com/runesleo/polymarket-toolkit).
-- ✍️ Writing bilingual at [leolabs.me](https://leolabs.me) — Learn in public · Build in public.
+- 🎯 AI × Crypto indie builder focused on prediction-market quant workflows and crypto on-chain research.
+- 🛠️ I build open-source tools for content ingestion, agent workflows, prediction-market analytics, video pipelines, and Telegram reading.
+- ✍️ I write bilingual notes at [leolabs.me](https://leolabs.me) — Learn in public · Build in public.
 - 🧠 Heavy Claude Code + Codex user. Memory-driven agent workflows.
 
 ### Flagship (pinned)
 
-[x-reader](https://github.com/runesleo/x-reader) · [claude-code-workflow](https://github.com/runesleo/claude-code-workflow) · [ai-health-vault](https://github.com/runesleo/ai-health-vault) · [polymarket-toolkit](https://github.com/runesleo/polymarket-toolkit) · [claude-video-kit](https://github.com/runesleo/claude-video-kit) · [tg-reader-mcp](https://github.com/runesleo/tg-reader-mcp)
+- [x-reader](https://github.com/runesleo/x-reader) — Universal content reader MCP Server for 10+ platforms.
+- [claude-code-workflow](https://github.com/runesleo/claude-code-workflow) — Battle-tested Claude Code workflow template.
+- [polymarket-toolkit](https://github.com/runesleo/polymarket-toolkit) — CLI + AI Skills workflow for profiling Polymarket traders from an address.
+- [ai-health-vault](https://github.com/runesleo/ai-health-vault) — AI + Obsidian private health management system template.
+- [claude-video-kit](https://github.com/runesleo/claude-video-kit) — Claude Code-powered AI short video generation pipeline.
+- [tg-reader-mcp](https://github.com/runesleo/tg-reader-mcp) — Telegram channel and group reader MCP Server.
 
 ### More open source
 
-[claude-skill-audit](https://github.com/runesleo/claude-skill-audit) · [discord-cleanup](https://github.com/runesleo/discord-cleanup) · [x-following-audit](https://github.com/runesleo/x-following-audit)
+- [claude-skill-audit](https://github.com/runesleo/claude-skill-audit) — Health check for Claude Code skill trees: usage, dead skills, and conflicts.
+- [discord-cleanup](https://github.com/runesleo/discord-cleanup) — Batch leave Discord servers you no longer need, dry-run by default.
+- [x-following-audit](https://github.com/runesleo/x-following-audit) — AI-assisted X following audit with human review for safe list hygiene.
 
 ### Interests
 
