@@ -3,8 +3,8 @@
 <h1 align="center">Hi, I'm Leo 👋</h1>
 
 <p align="center">
-  Independent builder at the intersection of AI and crypto.<br/>
-  Trading Polymarket, shipping open-source tools, writing in public.
+  AI × Crypto indie builder · one person + AI<br/>
+  Prediction markets × AI tools × Crypto on-chain · Learn in public · Build in public
 </p>
 
 <p align="center">
@@ -17,18 +17,22 @@
 
 ### About
 
-- 🎯 Quantitative trader on [Polymarket](https://polymarket.com) — weather, momentum, and event-driven strategies.
+- 🎯 AI × Crypto indie builder — prediction markets, AI tools, crypto on-chain. One person + AI.
 - 🏆 Silver Tier Winner @ #AgentTalentShow (Solana main track) with [polymarket-toolkit](https://github.com/runesleo/polymarket-toolkit).
-- ✍️ Writing bilingual at [leolabs.me](https://leolabs.me) — AI × Crypto, prediction markets, Claude Code workflows.
-- 🧠 Heavy Claude Code + Codex user. Obsessed with memory-driven agent workflows.
+- ✍️ Writing bilingual at [leolabs.me](https://leolabs.me) — Learn in public · Build in public.
+- 🧠 Heavy Claude Code + Codex user. Memory-driven agent workflows.
 
-### Flagship
+### Flagship (pinned)
 
 [x-reader](https://github.com/runesleo/x-reader) · [claude-code-workflow](https://github.com/runesleo/claude-code-workflow) · [ai-health-vault](https://github.com/runesleo/ai-health-vault) · [polymarket-toolkit](https://github.com/runesleo/polymarket-toolkit) · [claude-video-kit](https://github.com/runesleo/claude-video-kit) · [tg-reader-mcp](https://github.com/runesleo/tg-reader-mcp)
 
+### More open source
+
+[claude-skill-audit](https://github.com/runesleo/claude-skill-audit) · [discord-cleanup](https://github.com/runesleo/discord-cleanup) · [x-following-audit](https://github.com/runesleo/x-following-audit)
+
 ### Interests
 
-Prediction market microstructure · agentic trading systems · Claude Code memory & skill design · AI × crypto writing.
+Prediction markets × AI tools × Crypto on-chain · agent workflows · Claude Code memory & skill design.
 
 ---
 
