@@ -3,8 +3,8 @@
 <h1 align="center">Hi, I'm Leo 👋</h1>
 
 <p align="center">
-  AI × Crypto indie builder · one person + AI<br/>
-  Prediction markets × AI tools × Crypto on-chain · Learn in public · Build in public
+  AI Agent Workflow · Vibe Coding · Crypto Data<br/>
+  Codex / Claude Code / Cursor power user · one person + AI · Learn in public
 </p>
 
 <p align="center">
@@ -17,10 +17,10 @@
 
 ### About
 
-- 🎯 AI × Crypto indie builder focused on prediction-market quant workflows and crypto on-chain research.
+- 🎯 AI × Crypto builder focused on agent workflows, prediction-market data, and crypto research.
+- 🧠 Heavy Codex / Claude Code / Cursor user, building memory, validation, writeback, and multi-agent operating loops from real daily work.
 - 🛠️ I build open-source tools for content ingestion, agent workflows, prediction-market analytics, video pipelines, and Telegram reading.
-- ✍️ I write bilingual notes at [leolabs.me](https://leolabs.me) — Learn in public · Build in public.
-- 🧠 Heavy Claude Code + Codex user. Memory-driven agent workflows.
+- ✍️ I publish bilingual notes and project updates at [leolabs.me](https://leolabs.me) — Learn in public · Build in public.
 
 ### Flagship (pinned)
 
@@ -39,7 +39,7 @@
 
 ### Interests
 
-Prediction markets × AI tools × Crypto on-chain · agent workflows · Claude Code memory & skill design.
+AI-assisted coding · agent workflow · context engineering · memory/writeback loops · prediction markets · crypto data.
 
 ---
 

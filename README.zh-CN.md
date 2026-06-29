@@ -3,8 +3,8 @@
 <h1 align="center">Hi, 我是 Leo 👋</h1>
 
 <p align="center">
-  AI × Crypto 独立构建者 · 一个人 + AI<br/>
-  预测市场策略 · AI 工具实战 · Crypto 链上 · Learn in public · Build in public
+  AI Agent 工作流 · Vibe Coding · Crypto Data<br/>
+  Codex / Claude Code / Cursor 重度用户 · 一个人 + AI · Learn in public
 </p>
 
 <p align="center">
@@ -17,10 +17,10 @@
 
 ### 关于
 
-- 🎯 AI × Crypto 独立构建者，聚焦预测市场量化工作流和 Crypto 链上研究。
+- 🎯 AI × Crypto builder，聚焦 agent 工作流、预测市场数据和 Crypto 研究。
+- 🧠 Codex / Claude Code / Cursor 重度用户，从真实日常工作里搭建 memory、validation、writeback 和多 agent 协作闭环。
 - 🛠️ 做开源工具：内容抓取、agent 工作流、预测市场分析、视频管线、Telegram 读取。
-- ✍️ 在 [leolabs.me](https://leolabs.me) 写中英双语笔记 — Learn in public · Build in public。
-- 🧠 Claude Code + Codex 重度用户，记忆驱动的 agent 工作流。
+- ✍️ 在 [leolabs.me](https://leolabs.me) 写中英双语笔记和项目进展 — Learn in public · Build in public。
 
 ### 主力项目（置顶）
 
@@ -39,7 +39,7 @@
 
 ### 兴趣
 
-预测市场策略 · AI 工具实战 · Crypto 链上 · Claude Code 记忆与 skill 设计。
+AI-assisted coding · agent workflow · context engineering · memory/writeback loops · 预测市场 · crypto data。
 
 ---
 
