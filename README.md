@@ -1,10 +1,10 @@
-<p align="right"><sub><a href="./README.zh-CN.md">🇨🇳 中文</a> · <b>🇬🇧 English</b></sub></p>
+<p align="right"><sub><b>🇨🇳 中文</b> · <a href="./README.en.md">🇬🇧 English</a></sub></p>
 
-<h1 align="center">Hi, I'm Leo 👋</h1>
+<h1 align="center">Hi，我是 Leo 👋</h1>
 
 <p align="center">
-  AI Agent Workflow · Vibe Coding · Crypto Data<br/>
-  Codex / Claude Code / Cursor power user · one person + AI · Learn in public
+  AI × Crypto 独立构建者<br/>
+  搭 AI 工作系统，也做预测市场、内容与视频工具
 </p>
 
 <p align="center">
@@ -15,32 +15,38 @@
 
 ---
 
-### About
+### 我在做什么
 
-- 🎯 AI × Crypto builder focused on agent workflows, prediction-market data, and crypto research.
-- 🧠 Heavy Codex / Claude Code / Cursor user, building memory, validation, writeback, and multi-agent operating loops from real daily work.
-- 🛠️ I build open-source tools for content ingestion, agent workflows, prediction-market analytics, video pipelines, and Telegram reading.
-- ✍️ I publish bilingual notes and project updates at [leolabs.me](https://leolabs.me) — Learn in public · Build in public.
+我把自己的真实工作拆成长期业务线、任务事实源和可替换的 Agent，再把其中真正有复用价值的分支持续开源。
 
-### Flagship (pinned)
+- **AI 工作系统**：让 Claude Code、Codex、Cursor 共用一套小而稳定的核心，同时保留业务归属、任务连续性、单 Writer 和必要的安全边界。
+- **预测市场**：做数据、研究、地址画像、策略验证与辅助决策工具；相关产品仍在持续迭代。
+- **内容基础设施**：把 X、Telegram、长视频与网页内容转成可以继续研究和创作的输入。
+- **生产工具**：把真实使用中跑通的视频、健康资料和系统体检流程整理成可复用项目。
 
-- [x-reader](https://github.com/runesleo/x-reader) — Universal content reader MCP Server for 10+ platforms.
-- [claude-code-workflow](https://github.com/runesleo/claude-code-workflow) — Battle-tested Claude Code workflow template.
-- [polymarket-toolkit](https://github.com/runesleo/polymarket-toolkit) — CLI + AI Skills workflow for profiling Polymarket traders from an address.
-- [ai-health-vault](https://github.com/runesleo/ai-health-vault) — AI + Obsidian private health management system template.
-- [claude-video-kit](https://github.com/runesleo/claude-video-kit) — Claude Code-powered AI short video generation pipeline.
-- [tg-reader-mcp](https://github.com/runesleo/tg-reader-mcp) — Telegram channel and group reader MCP Server.
+### 开源地图
 
-### More open source
+#### AI 工作系统
 
-- [claude-skill-audit](https://github.com/runesleo/claude-skill-audit) — Health check for Claude Code skill trees: usage, dead skills, and conflicts.
-- [discord-cleanup](https://github.com/runesleo/discord-cleanup) — Batch leave Discord servers you no longer need, dry-run by default.
-- [x-following-audit](https://github.com/runesleo/x-following-audit) — AI-assisted X following audit with human review for safe list hygiene.
+- [QuietHarness](https://github.com/runesleo/claude-code-workflow) — Claude Code、Codex、Cursor 共用的轻量 AI 工作系统；保留业务地图与任务连续性，没有相关任务时保持安静。
+- [claude-skill-audit](https://github.com/runesleo/claude-skill-audit) — 检查 Claude Code Skill 树的使用率、失效项与冲突。
 
-### Interests
+#### 预测市场
 
-AI-assisted coding · agent workflow · context engineering · memory/writeback loops · prediction markets · crypto data.
+- [polymarket-toolkit](https://github.com/runesleo/polymarket-toolkit) — 持续迭代中的预测市场研究与分析工具集；当前支持通过 CLI + AI Skills 生成地址交易画像。
+
+#### 内容与生产
+
+- [x-reader](https://github.com/runesleo/x-reader) — 读取 X、YouTube、小红书等 10+ 平台内容的 MCP Server。
+- [tg-reader-mcp](https://github.com/runesleo/tg-reader-mcp) — Telegram 频道与群组读取 MCP Server。
+- [claude-video-kit](https://github.com/runesleo/claude-video-kit) — 从 brief、脚本到审核凭证和 9:16 成片的 AI 视频生产管线。
+
+#### 个人基础设施
+
+- [ai-health-vault](https://github.com/runesleo/ai-health-vault) — AI + Obsidian 私有健康资料系统模板。
+- [discord-cleanup](https://github.com/runesleo/discord-cleanup) — 批量退出不再需要的 Discord 服务器，默认 dry-run。
+- [x-following-audit](https://github.com/runesleo/x-following-audit) — X 关注列表 AI 审计与人工复核工具。
 
 ---
 
-<p align="center"><sub>Open source for leverage, not attention.</sub></p>
+<p align="center"><sub>这里展示的不是一套通用答案，而是我从真实工作里持续长出来的系统与工具。</sub></p>
