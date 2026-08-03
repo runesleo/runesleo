@@ -36,6 +36,12 @@
 - [claude-skill-audit](https://github.com/runesleo/claude-skill-audit) — Health check for Claude Code skill trees: usage, dead skills, and conflicts.
 - [discord-cleanup](https://github.com/runesleo/discord-cleanup) — Batch leave Discord servers you no longer need, dry-run by default.
 - [x-following-audit](https://github.com/runesleo/x-following-audit) — AI-assisted X following audit with human review for safe list hygiene.
+- [long-media-cli](https://github.com/runesleo/long-media-cli) — Unified long video + podcast ingest with chunked local transcription.
+- [asset-dd-and-opportunity-evaluation](https://github.com/runesleo/asset-dd-and-opportunity-evaluation) — Institutional asset DD workflow for AI coding agents.
+- [talk-human](https://github.com/runesleo/talk-human) — Build a "voice layer" from your own speech samples so AI writing sounds like you.
+- [humanizer-skill](https://github.com/runesleo/humanizer-skill) — Detect and remove AI-generated writing patterns.
+- [systematic-debugging-skill](https://github.com/runesleo/systematic-debugging-skill) — A structured 5-phase debugging methodology for Claude Code.
+- [content-pipeline-skill](https://github.com/runesleo/content-pipeline-skill) — 4-stage content pipeline: research → ideate → write → publish.
 
 ### Interests
 
