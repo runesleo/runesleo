@@ -30,6 +30,8 @@
 
 - [QuietHarness](https://github.com/runesleo/claude-code-workflow) — Claude Code、Codex、Cursor 共用的轻量 AI 工作系统；保留业务地图与任务连续性，没有相关任务时保持安静。
 - [claude-skill-audit](https://github.com/runesleo/claude-skill-audit) — 检查 Claude Code Skill 树的使用率、失效项与冲突。
+- [systematic-debugging-skill](https://github.com/runesleo/systematic-debugging-skill) — 五阶段结构化调试方法，避免瞎试。
+- [asset-dd-and-opportunity-evaluation](https://github.com/runesleo/asset-dd-and-opportunity-evaluation) — 给 AI coding agent 用的机构级资产尽调工作流。
 
 #### 预测市场
 
@@ -40,6 +42,10 @@
 - [x-reader](https://github.com/runesleo/x-reader) — 读取 X、YouTube、小红书等 10+ 平台内容的 MCP Server。
 - [tg-reader-mcp](https://github.com/runesleo/tg-reader-mcp) — Telegram 频道与群组读取 MCP Server。
 - [claude-video-kit](https://github.com/runesleo/claude-video-kit) — 从 brief、脚本到审核凭证和 9:16 成片的 AI 视频生产管线。
+- [long-media-cli](https://github.com/runesleo/long-media-cli) — 长视频与播客统一摄取，本地分块转写。
+- [content-pipeline-skill](https://github.com/runesleo/content-pipeline-skill) — 四段式内容管线：研究 → 选题 → 撰写 → 发布。
+- [talk-human](https://github.com/runesleo/talk-human) — 用你自己的语音样本建"声音层"，让 AI 写的东西读起来像你说话。
+- [humanizer-skill](https://github.com/runesleo/humanizer-skill) — 识别并去除 AI 写作痕迹。
 
 #### 个人基础设施
 
