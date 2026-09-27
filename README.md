@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://x.com/runes_leo">X @runes_leo</a> ·
   <a href="https://leolabs.me">leolabs.me</a> ·
-  <a href="https://x.com/runes_leo/subscribe">X Subscription</a>
+  <a href="https://leolabs.me/insider">Leo Insider</a>
 </p>
 
 ---
