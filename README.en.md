@@ -17,15 +17,15 @@
 
 I use AI for research, content, product development, and operations. My long-term goal is to open-source the methods and tools that prove useful in a one-person company, so others can try, combine, and improve them independently.
 
-### Flagship project: [QuietHarness](https://github.com/runesleo/claude-code-workflow)
+### Flagship project: [QuietHarness](https://github.com/runesleo/quietharness)
 
 **The open-source entry point for an AI-powered one-person company.**
 
 A small, replaceable agent reliability foundation, with experiments in task handoff, evidence-based acceptance, cross-tool context, and business workflows. Independent tools keep their own repositories.
 
-- [Module map and open-source roadmap](https://github.com/runesleo/claude-code-workflow/blob/main/docs/ONE-PERSON-COMPANY.en.md)
-- [OPC First Workflow Preview: runnable offline experiment](https://github.com/runesleo/claude-code-workflow/blob/main/examples/opc-first-workflow/README.en.md)
-- [Case index](https://github.com/runesleo/claude-code-workflow/blob/main/docs/ONE-PERSON-COMPANY.en.md#case-index)
+- [Module map and open-source roadmap](https://github.com/runesleo/quietharness/blob/main/docs/ONE-PERSON-COMPANY.en.md)
+- [OPC First Workflow Preview: runnable offline experiment](https://github.com/runesleo/quietharness/blob/main/examples/opc-first-workflow/README.en.md)
+- [Case index](https://github.com/runesleo/quietharness/blob/main/docs/ONE-PERSON-COMPANY.en.md#case-index)
 
 The public parts include a usable Core, offline synthetic experiments, and independent tools. They do not establish a fully autonomous company or live multi-model collaboration.
 
@@ -40,7 +40,7 @@ The public parts include a usable Core, offline synthetic experiments, and indep
 | [TG Reader MCP](https://github.com/runesleo/tg-reader-mcp) | Telegram content reading |
 | [AI Handoff Check](https://github.com/runesleo/ai-handoff-check) | Check the integrity and freshness of agent handoffs |
 
-For tools organized by business role, see the [QuietHarness module map](https://github.com/runesleo/claude-code-workflow/blob/main/docs/ONE-PERSON-COMPANY.en.md). Find other public projects, including Discord Cleanup and X Following Audit, in [all GitHub repositories](https://github.com/runesleo?tab=repositories).
+For tools organized by business role, see the [QuietHarness module map](https://github.com/runesleo/quietharness/blob/main/docs/ONE-PERSON-COMPANY.en.md). Find other public projects, including Discord Cleanup and X Following Audit, in [all GitHub repositories](https://github.com/runesleo?tab=repositories).
 
 ## Build in Public
 

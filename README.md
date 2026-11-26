@@ -17,15 +17,15 @@
 
 我用 AI 做研究、内容、产品开发与运营。我的长期方向是把一人公司中反复验证有价值的工作方法和工具逐步开源，让其他人能独立试用、组合和改进。
 
-### 旗舰项目：[QuietHarness](https://github.com/runesleo/claude-code-workflow)
+### 旗舰项目：[QuietHarness](https://github.com/runesleo/quietharness)
 
 **AI 一人公司的开源总入口。**
 
 一个轻量、可替换的 Agent 可靠性基础层，加上任务接力、证据验收、跨工具上下文和业务工作流实验。独立业务工具保持自己的仓库。
 
-- [能力地图与开源路线](https://github.com/runesleo/claude-code-workflow/blob/main/docs/ONE-PERSON-COMPANY.md)
-- [OPC 首条业务闭环：可运行离线实验](https://github.com/runesleo/claude-code-workflow/blob/main/examples/opc-first-workflow/README.md)
-- [案例索引](https://github.com/runesleo/claude-code-workflow/blob/main/docs/ONE-PERSON-COMPANY.md#案例索引)
+- [能力地图与开源路线](https://github.com/runesleo/quietharness/blob/main/docs/ONE-PERSON-COMPANY.md)
+- [OPC 首条业务闭环：可运行离线实验](https://github.com/runesleo/quietharness/blob/main/examples/opc-first-workflow/README.md)
+- [案例索引](https://github.com/runesleo/quietharness/blob/main/docs/ONE-PERSON-COMPANY.md#案例索引)
 
 当前公开部分包括可试用的 Core、离线合成实验和独立工具；不是完整的无人值守公司或真实多模型协作证明。
 
@@ -40,7 +40,7 @@
 | [TG Reader MCP](https://github.com/runesleo/tg-reader-mcp) | Telegram 内容读取 |
 | [AI Handoff Check](https://github.com/runesleo/ai-handoff-check) | 检查 AI 交接文件是否完整、是否仍为最新版本 |
 
-按业务场景查找工具，请看 [QuietHarness 能力地图](https://github.com/runesleo/claude-code-workflow/blob/main/docs/ONE-PERSON-COMPANY.md)；包括 Discord Cleanup 和 X Following Audit 在内的其他公开项目，可在 [全部 GitHub 仓库](https://github.com/runesleo?tab=repositories) 中查找。
+按业务场景查找工具，请看 [QuietHarness 能力地图](https://github.com/runesleo/quietharness/blob/main/docs/ONE-PERSON-COMPANY.md)；包括 Discord Cleanup 和 X Following Audit 在内的其他公开项目，可在 [全部 GitHub 仓库](https://github.com/runesleo?tab=repositories) 中查找。
 
 ## Build in Public
 
