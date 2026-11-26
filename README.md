@@ -1,10 +1,10 @@
-<p align="right"><sub><b>🇨🇳 中文</b> · <a href="./README.en.md">🇬🇧 English</a></sub></p>
+<p align="right"><sub><b>中文</b> · <a href="./README.en.md">English</a></sub></p>
 
-<h1 align="center">Hi，我是 Leo 👋</h1>
+<h1 align="center">Hi，我是 Leo</h1>
 
 <p align="center">
-  AI × Crypto 独立构建者<br/>
-  搭 AI 工作系统，也做预测市场、内容与视频工具
+  AI 产品与 Agent 工作流实践者<br/>
+  Building an AI-powered One-Person Company in Public
 </p>
 
 <p align="center">
@@ -13,46 +13,39 @@
   <a href="https://leolabs.me/insider">Leo Insider</a>
 </p>
 
----
+## 我正在建设什么
 
-### 我在做什么
+我用 AI 做研究、内容、产品开发与运营。我的长期方向是把一人公司中反复验证有价值的工作方法和工具逐步开源，让其他人能独立试用、组合和改进。
 
-我把自己的真实工作拆成长期业务线、任务事实源和可替换的 Agent，再把其中真正有复用价值的分支持续开源。
+### 旗舰项目：[QuietHarness](https://github.com/runesleo/claude-code-workflow)
 
-- **AI 工作系统**：让 Claude Code、Codex、Cursor 共用一套小而稳定的核心，同时保留业务归属、任务连续性、单 Writer 和必要的安全边界。
-- **预测市场**：做数据、研究、地址画像、策略验证与辅助决策工具；相关产品仍在持续迭代。
-- **内容基础设施**：把 X、Telegram、长视频与网页内容转成可以继续研究和创作的输入。
-- **生产工具**：把真实使用中跑通的视频、健康资料和系统体检流程整理成可复用项目。
+**AI 一人公司的开源总入口。**
 
-### 开源地图
+一个轻量、可替换的 Agent 可靠性基础层，加上任务接力、证据验收、跨工具上下文和业务工作流实验。独立业务工具保持自己的仓库。
 
-#### AI 工作系统
+- [能力地图与开源路线](https://github.com/runesleo/claude-code-workflow/blob/main/docs/ONE-PERSON-COMPANY.md)
+- [OPC 首条业务闭环：可运行离线实验](https://github.com/runesleo/claude-code-workflow/tree/main/examples/opc-first-workflow)
+- [案例索引](https://github.com/runesleo/claude-code-workflow/blob/main/docs/ONE-PERSON-COMPANY.md#案例索引)
 
-- [QuietHarness](https://github.com/runesleo/claude-code-workflow) — Claude Code、Codex、Cursor 共用的轻量 AI 工作系统；保留业务地图与任务连续性，没有相关任务时保持安静。
-- [claude-skill-audit](https://github.com/runesleo/claude-skill-audit) — 检查 Claude Code Skill 树的使用率、失效项与冲突。
-- [systematic-debugging-skill](https://github.com/runesleo/systematic-debugging-skill) — 五阶段结构化调试方法，避免瞎试。
-- [asset-dd-and-opportunity-evaluation](https://github.com/runesleo/asset-dd-and-opportunity-evaluation) — 给 AI coding agent 用的机构级资产尽调工作流。
+当前公开部分包括可试用的 Core、离线合成实验和独立工具；不是完整的无人值守公司或真实多模型协作证明。
 
-#### 预测市场
+## 代表性开源工具
 
-- [polymarket-toolkit](https://github.com/runesleo/polymarket-toolkit) — 持续迭代中的预测市场研究与分析工具集；当前支持通过 CLI + AI Skills 生成地址交易画像。
+| 项目 | 解决什么问题 |
+|---|---|
+| [X Reader](https://github.com/runesleo/x-reader) | 将社交媒体等公开内容转为研究输入 |
+| [Polymarket Toolkit](https://github.com/runesleo/polymarket-toolkit) | 预测市场研究与地址画像 |
+| [Video Explainer Kit](https://github.com/runesleo/claude-video-kit) | 可审核的解释类视频制作 |
+| [AI Health Vault](https://github.com/runesleo/ai-health-vault) | AI 与 Obsidian 个人健康资料工作流 |
+| [TG Reader MCP](https://github.com/runesleo/tg-reader-mcp) | Telegram 内容读取 |
+| [AI Handoff Check](https://github.com/runesleo/ai-handoff-check) | 检查 AI 交接文件是否完整、是否仍为最新版本 |
 
-#### 内容与生产
+其他已开源项目及其业务归属见 [QuietHarness 完整能力地图](https://github.com/runesleo/claude-code-workflow/blob/main/docs/ONE-PERSON-COMPANY.md)。
 
-- [x-reader](https://github.com/runesleo/x-reader) — 读取 X、YouTube、小红书等 10+ 平台内容的 MCP Server。
-- [tg-reader-mcp](https://github.com/runesleo/tg-reader-mcp) — Telegram 频道与群组读取 MCP Server。
-- [claude-video-kit](https://github.com/runesleo/claude-video-kit) — 从 brief、脚本到审核凭证和 9:16 成片的 AI 视频生产管线。
-- [long-media-cli](https://github.com/runesleo/long-media-cli) — 长视频与播客统一摄取，本地分块转写。
-- [content-pipeline-skill](https://github.com/runesleo/content-pipeline-skill) — 四段式内容管线：研究 → 选题 → 撰写 → 发布。
-- [talk-human](https://github.com/runesleo/talk-human) — 用你自己的语音样本建"声音层"，让 AI 写的东西读起来像你说话。
-- [humanizer-skill](https://github.com/runesleo/humanizer-skill) — 识别并去除 AI 写作痕迹。
+## Build in Public
 
-#### 个人基础设施
+- 先解决真实问题，再沉淀可复用的方法。
+- 尽量提供可运行示例、测试和可核验的交付记录。
+- 欢迎独立试用、反馈问题和提出改进建议；在对应项目的 Issues 中交流。
 
-- [ai-health-vault](https://github.com/runesleo/ai-health-vault) — AI + Obsidian 私有健康资料系统模板。
-- [discord-cleanup](https://github.com/runesleo/discord-cleanup) — 批量退出不再需要的 Discord 服务器，默认 dry-run。
-- [x-following-audit](https://github.com/runesleo/x-following-audit) — X 关注列表 AI 审计与人工复核工具。
-
----
-
-<p align="center"><sub>这里展示的不是一套通用答案，而是我从真实工作里持续长出来的系统与工具。</sub></p>
+保留个人工作环境与业务数据的隐私边界。不为日更而制造无价值提交，也不把合成实验当成真实用户采用。

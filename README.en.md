@@ -1,10 +1,10 @@
-<p align="right"><sub><a href="./README.md">🇨🇳 中文</a> · <b>🇬🇧 English</b></sub></p>
+<p align="right"><sub><a href="./README.md">中文</a> · <b>English</b></sub></p>
 
-<h1 align="center">Hi, I'm Leo 👋</h1>
+<h1 align="center">Hi, I'm Leo</h1>
 
 <p align="center">
-  AI × Crypto indie builder<br/>
-  Building practical AI work systems, prediction-market tooling, and content infrastructure
+  AI product and agent workflow practitioner<br/>
+  Building an AI-powered One-Person Company in Public
 </p>
 
 <p align="center">
@@ -13,40 +13,39 @@
   <a href="https://leolabs.me/insider">Leo Insider</a>
 </p>
 
----
+## What I'm building
 
-### What I build
+I use AI for research, content, product development, and operations. My long-term goal is to open-source the methods and tools that prove useful in a one-person company, so others can try, combine, and improve them independently.
 
-I organize my real work into long-running business lines, task-level sources of truth, and replaceable agents. The parts that prove reusable become open-source projects.
+### Flagship project: [QuietHarness](https://github.com/runesleo/claude-code-workflow)
 
-- **AI work systems** — a small shared core across Claude Code, Codex, and Cursor, with stable ownership, task continuity, single-writer rules, and necessary safety boundaries.
-- **Prediction markets** — data, research, wallet profiling, strategy validation, and decision-support tools. The product layer is still evolving.
-- **Content infrastructure** — turning X, Telegram, long-form video, and web content into inputs for research and creation.
-- **Production tools** — reusable workflows for video, private health records, and system audits, extracted from real use.
+**The open-source entry point for an AI-powered one-person company.**
 
-### Open-source map
+A small, replaceable agent reliability foundation, with experiments in task handoff, evidence-based acceptance, cross-tool context, and business workflows. Independent tools keep their own repositories.
 
-#### AI work systems
+- [Module map and open-source roadmap](https://github.com/runesleo/claude-code-workflow/blob/main/docs/ONE-PERSON-COMPANY.en.md)
+- [OPC First Workflow Preview: runnable offline experiment](https://github.com/runesleo/claude-code-workflow/tree/main/examples/opc-first-workflow)
+- [Case index](https://github.com/runesleo/claude-code-workflow/blob/main/docs/ONE-PERSON-COMPANY.en.md#case-index)
 
-- [QuietHarness](https://github.com/runesleo/claude-code-workflow) — A lightweight AI work system shared by Claude Code, Codex, and Cursor. It preserves business structure and task continuity, then stays quiet when there is no relevant work.
-- [claude-skill-audit](https://github.com/runesleo/claude-skill-audit) — Health checks for Claude Code skill trees: usage, stale skills, and conflicts.
+The public parts include a usable Core, offline synthetic experiments, and independent tools. They do not establish a fully autonomous company or live multi-model collaboration.
 
-#### Prediction markets
+## Selected open-source tools
 
-- [polymarket-toolkit](https://github.com/runesleo/polymarket-toolkit) — An evolving prediction-market research and analysis toolkit; currently supports address-based trader profiling through CLI + AI Skills.
+| Project | Problem it addresses |
+|---|---|
+| [X Reader](https://github.com/runesleo/x-reader) | Turn public content from social platforms into research inputs |
+| [Polymarket Toolkit](https://github.com/runesleo/polymarket-toolkit) | Prediction-market research and address profiling |
+| [Video Explainer Kit](https://github.com/runesleo/claude-video-kit) | Reviewable explainer video production |
+| [AI Health Vault](https://github.com/runesleo/ai-health-vault) | AI and Obsidian workflows for personal health records |
+| [TG Reader MCP](https://github.com/runesleo/tg-reader-mcp) | Telegram content reading |
+| [AI Handoff Check](https://github.com/runesleo/ai-handoff-check) | Check the integrity and freshness of agent handoffs |
 
-#### Content and production
+For other open-source projects and their business roles, see the [complete QuietHarness module map](https://github.com/runesleo/claude-code-workflow/blob/main/docs/ONE-PERSON-COMPANY.en.md).
 
-- [x-reader](https://github.com/runesleo/x-reader) — An MCP server for reading content from X, YouTube, Xiaohongshu, and 10+ platforms.
-- [tg-reader-mcp](https://github.com/runesleo/tg-reader-mcp) — A Telegram channel and group reader MCP server.
-- [claude-video-kit](https://github.com/runesleo/claude-video-kit) — An AI video pipeline from brief and script to review receipts and narrated 9:16 output.
+## Build in Public
 
-#### Personal infrastructure
+- Solve real problems before extracting reusable methods.
+- Provide runnable examples, tests, and verifiable delivery records wherever possible.
+- Independent trials, issue reports, and improvement suggestions are welcome in the relevant repositories.
 
-- [ai-health-vault](https://github.com/runesleo/ai-health-vault) — A private AI + Obsidian health-record system template.
-- [discord-cleanup](https://github.com/runesleo/discord-cleanup) — Batch-leave Discord servers you no longer need, with dry-run by default.
-- [x-following-audit](https://github.com/runesleo/x-following-audit) — AI-assisted X following audits with human review.
-
----
-
-<p align="center"><sub>This is not a universal operating system. It is a map of the systems and tools that keep growing out of my real work.</sub></p>
+Keep private work environments and business data private. No commits just to fill a daily quota, and no synthetic experiments presented as real user adoption.
